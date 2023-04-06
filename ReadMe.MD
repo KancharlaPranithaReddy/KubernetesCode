@@ -26,4 +26,4 @@ v1.15-v.24
 
 Authors:
 
-Pranitha Reddy
+K Pranitha Reddy
